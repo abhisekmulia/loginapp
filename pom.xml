@@ -77,14 +77,14 @@
 			<id>nexus</id>
 			<name>nexusrepo
 </name>
-			<url>http://192.168.56.11:8081/repository/nexusrepo/</url>
+			<url>http://192.168.56.11:8081/repository/Nexus-repo/</url>
 		</repository>
 		
 		<snapshotRepository>
 			<id>nexus</id>
 			<name>nexusrepo
 </name>
-			<url>http://192.168.56.11:8081/repository/nexusrepo/</url>
+			<url>http://192.168.56.11:8081/repository/Nexus-repo/</url>
 		</snapshotRepository>
 	</distributionManagement>
 	
