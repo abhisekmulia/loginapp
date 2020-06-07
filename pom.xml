@@ -72,19 +72,19 @@
 	</dependencies>
 	
 	<distributionManagement>
-	
+		
 		<repository>
 			<id>nexus</id>
-			<name>nexusrepo
+			<name>nexus-repo
 </name>
-			<url>http://192.168.56.11:8081/repository/Nexus-repo/</url>
+			<url>http://192.168.56.11:8081/repository/nexus-repo/</url>
 		</repository>
 		
 		<snapshotRepository>
 			<id>nexus</id>
-			<name>nexusrepo
+			<name>nexus-repo
 </name>
-			<url>http://192.168.56.11:8081/repository/Nexus-repo/</url>
+			<url>http://192.168.56.11:8081/repository/nexus-repo/</url>
 		</snapshotRepository>
 	</distributionManagement>
 	
